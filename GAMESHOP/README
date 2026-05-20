@@ -1,0 +1,36 @@
+---------------------------------------- GameShop - Sistema de Gerenciamento Gamer ----------------------------------------
+
+Projeto desenvolvido em Java com interface gráfica utilizando Java Swing, com foco em conceitos de Programação Orientada a Objetos (POO).
+
+O sistema simula uma plataforma gamer onde é possível cadastrar jogadores, gerenciar saldo de horas, comprar horas adicionais e utilizar funcionalidades especiais para usuários gamers.
+
+ ---------------------------------------- Funcionalidades ----------------------------------------
+
+Cadastro de jogador
+Controle de saldo de horas
+Sistema de compra de horas
+Consumo de horas para jogar
+Bônus para jogadores gamers
+Interface gráfica interativa com Java Swing
+Validações básicas de operação
+🛠 Tecnologias utilizadas
+Java
+Java Swing
+Programação Orientada a Objetos (POO)
+NetBeans
+
+ ---------------------------------------- Conceitos aplicados ----------------------------------------
+Encapsulamento
+Classes e Objetos
+Construtores
+Métodos
+Getters e Setters
+Separação entre Model e View
+Manipulação de eventos gráficos
+ ---------------------------------------- Objetivo do projeto ----------------------------------------
+
+Este projeto foi desenvolvido com fins acadêmicos para praticar os fundamentos de desenvolvimento Java Desktop e reforçar conceitos de orientação a objetos.
+
+** Autor **
+
+Jean Ortiz
