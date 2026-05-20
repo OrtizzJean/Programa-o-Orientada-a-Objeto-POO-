@@ -1,26 +1,29 @@
-📚 Projeto: prjLivro
+---------------------------------------- PROJETO Livro ----------------------------------------
 
 Este projeto tem como objetivo a implementação de um sistema simples de gerenciamento de um livro utilizando a linguagem Java, com foco em
 conceitos de Programação Orientada a Objetos (POO).
 
-🧩 Descrição:
+ ** Descrição:
 
 A aplicação simula o controle de um livro em uma biblioteca, permitindo consultar seu estado, realizar empréstimos e devoluções, incluindo o
 cálculo de multa por atraso.
 
-O sistema é composto por:
+ ** O sistema é composto por:
 
 Classe Livro: responsável por representar o objeto livro, contendo seus atributos e comportamentos.
 Classe Aplic: responsável pela interação com o usuário via console, utilizando a classe Scanner.
 
 
-⚙️ Funcionalidades:
-📖 Consultar livro
+ * Funcionalidades:
+ 
+ * Consultar livro
 Exibe identificação, título e situação (Disponível ou Emprestado)
-📤 Emprestar livro
+ 
+ * Emprestar livro
 Altera o status para emprestado
 Valida se o livro já está emprestado
-📥 Devolver livro
+
+ * Devolver livro
 Altera o status para disponível
 Calcula multa com base nos dias de atraso
 Valida se o livro já está disponível
@@ -38,18 +41,25 @@ Estrutura de repetição (do-while)
 Entrada de dados com Scanner
 
 
-📌 Regras de negócio:
+
+---------------------------------------- Regras de negócio ----------------------------------------
+
 Um livro só pode ser emprestado se estiver disponível
 Um livro só pode ser devolvido se estiver emprestado
 O valor da multa é calculado com base nos dias de atraso e no valor da multa diária
 
 
-💻 Tecnologias utilizadas:
+
+---------------------------------------- Tecnologias utilizadas ----------------------------------------
+
 Java
 NetBeans IDE 8.2 (atualmente evoluído para o Apache NetBeans)
 Aplicação em modo console (CLI)
 
 
-🎯 Objetivo acadêmico:
+
+
+ ---------------------------------------- Objetivo acadêmico ----------------------------------------
+ 
 Este projeto foi desenvolvido como atividade prática com o objetivo de reforçar os conceitos fundamentais de POO,
 lógica de programação e interação com o usuário.
